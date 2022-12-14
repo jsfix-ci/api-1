@@ -106,7 +106,7 @@
     "shasum": "^1.0.2",
     "slug": "^4.0.1",
     "ssh2": "^1.11.0",
-    "stripe": "^10.7.0",
+    "stripe": "^11.3.0",
     "superagent": "^5.1.0",
     "swagger-client": "^3.13.6",
     "tunnel-ssh": "^4.1.6",
